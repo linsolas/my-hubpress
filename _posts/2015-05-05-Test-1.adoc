@@ -6,7 +6,7 @@ Test blog
 
 Hello world
 
-````
+```
 var x = function() {
   console.log('test');
 }
