@@ -21,9 +21,7 @@ function lol(str) {
 }
 ```
 
-<hr/>
-
-[width="15%"]
+[width="40%"]
 |=======
 |1 |2 |A
 |3 |4 |B
