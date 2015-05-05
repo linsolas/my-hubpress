@@ -5,3 +5,18 @@ Test blog
 ## Hi
 
 Hello world
+
+````
+var x = function() {
+  console.log('test');
+}
+```
+
+Some `function` can be added:
+
+```js
+function lol(str) {
+  str += ' world';
+  return str;
+}
+```
