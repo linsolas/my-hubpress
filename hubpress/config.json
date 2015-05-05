@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "linsolas",
-    "repositoryName": "my-hubpress",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"linsolas","repositoryName":"my-hubpress","branch":"gh-pages"},"site":{"title":"Mon petit test Hubpress","description":"Un test pour un nouveau blog","logo":"","url":"https://linsolas.github.io/my-hubpress"},"socialnetwork":{"twitter":"romaintaz","github":"linsolas"},"theme":{"name":"Casper","url":"//linsolas.github.io/my-hubpress/themes/Casper"}}
